@@ -1,0 +1,4 @@
+﻿  ex2. function.cpp
+C:\Users\A F C\source\repos\ex2. function\ex2. function\ex2. function.cpp(25,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\A F C\source\repos\ex2. function\ex2. function\ex2. function.cpp(32,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ex2. function.vcxproj -> C:\Users\A F C\source\repos\ex2. function\x64\Debug\ex2. function.exe

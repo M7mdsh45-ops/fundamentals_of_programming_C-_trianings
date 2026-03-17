@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="for_loop_trianings/for_loop_trianings.vcxproj" Id="43fa5b02-f02f-4e8e-ac01-495e10771c29" />
+</Solution>

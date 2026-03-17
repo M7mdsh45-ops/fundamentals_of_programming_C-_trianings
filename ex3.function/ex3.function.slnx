@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ex3.function/ex3.function.vcxproj" Id="2ba5f73d-a486-4cc3-9c8e-e8fe013b5601" />
+</Solution>
