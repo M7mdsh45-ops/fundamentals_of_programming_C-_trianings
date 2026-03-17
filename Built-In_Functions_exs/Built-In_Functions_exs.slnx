@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Built-In_Functions_exs/Built-In_Functions_exs.vcxproj" />
+</Solution>
