@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="loop_break&amp;continue/loop_break&amp;continue.vcxproj" />
+</Solution>
