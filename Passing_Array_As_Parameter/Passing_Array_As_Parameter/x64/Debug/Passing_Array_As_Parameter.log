@@ -1,0 +1,5 @@
+﻿  Passing_Array_As_Parameter.cpp
+C:\Users\A F C\source\repos\Passing_Array_As_Parameter\Passing_Array_As_Parameter\Passing_Array_As_Parameter.cpp(22,49): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+C:\Users\A F C\source\repos\Passing_Array_As_Parameter\Passing_Array_As_Parameter\Passing_Array_As_Parameter.cpp(22,49): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\A F C\source\repos\Passing_Array_As_Parameter\Passing_Array_As_Parameter\Passing_Array_As_Parameter.cpp(22,49): warning C4309: 'initializing': truncation of constant value
+  Passing_Array_As_Parameter.vcxproj -> C:\Users\A F C\source\repos\Passing_Array_As_Parameter\x64\Debug\Passing_Array_As_Parameter.exe
