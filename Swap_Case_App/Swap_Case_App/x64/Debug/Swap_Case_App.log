@@ -1,0 +1,3 @@
+﻿  Swap_Case_App.cpp
+C:\Users\A F C\source\repos\Swap_Case_App\Swap_Case_App\Swap_Case_App.cpp(11,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Swap_Case_App.vcxproj -> C:\Users\A F C\source\repos\Swap_Case_App\x64\Debug\Swap_Case_App.exe
